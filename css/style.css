@@ -1,0 +1,12 @@
+.image{
+    height: 500px;
+    width: 500x;
+    padding: 30px;
+}
+.border{
+    border-radius: 20px;
+}
+.thumbnail{
+    height: 100px;
+    width: 100px;
+}
